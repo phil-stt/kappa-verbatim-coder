@@ -1,0 +1,13 @@
+code,label,description
+ANCHOR,Anchor likeability,"Comments on the anchors or on-air talent as people: warmth, trust, delivery, voice, appearance, chemistry, credibility of a named or unnamed presenter."
+WEATHER,Weather segment,"Comments on the weather forecast or the meteorologist: accuracy, clarity, maps, radar, storm coverage, how long the forecast runs."
+PACING,Pacing,"Comments on the speed or rhythm of the broadcast: rushed, slow, dragging, choppy transitions, too many quick hits, stories cut short."
+CRIME,Crime coverage,"Comments on crime, police, shootings, court or public-safety stories: too much, too little, sensational, fair, scary."
+GRAPHICS,Graphics,"Comments on on-screen visuals: graphics, lower thirds, tickers, set design, colors, text size, the look of the show."
+LOCAL,Local relevance,"Comments on whether stories matter to the viewer's own community: neighborhoods, schools, city council, local businesses, or national news crowding out local news."
+SPORTS,Sports,"Comments on the sports segment or sports anchor: scores, local teams, high school sports, amount of sports coverage."
+LENGTH,Length,"Comments on the overall length of the newscast or of the program as a whole: too long, too short, should be 30 or 60 minutes."
+ADS,Commercials,"Comments on commercial breaks or advertising: too many, too long, repetitive ads, breaks at bad moments."
+COMPARE,Comparison to other stations,"Explicit comparison with another station, channel, network or news source, or a statement about switching or preferring one."
+NONE,Nothing / no opinion,"No substantive opinion: did not watch, don't know, no comment, nothing to say, or a non-answer."
+OTHER,Other,"A substantive opinion that fits none of the codes above."

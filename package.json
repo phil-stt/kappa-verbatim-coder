@@ -1,0 +1,19 @@
+{
+  "name": "kappa",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Kappa: a local proof of concept for AI-assisted open-end coding (the Verbatim Coder agent).",
+  "type": "module",
+  "scripts": {
+    "prestart": "npm install --no-audit --no-fund --silent",
+    "start": "node server.js",
+    "build-data": "node scripts/build-data.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.137.0"
+  },
+  "license": "MIT"
+}

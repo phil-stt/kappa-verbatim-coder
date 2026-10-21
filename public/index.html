@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kappa</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%232f5d8a'/><text x='16' y='23' font-size='20' text-anchor='middle' fill='white' font-family='Georgia,serif'>κ</text></svg>">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="top">
+    <div class="brand"><span class="mark">κ</span><div><strong>Kappa</strong><small>Verbatim Coder · open-end coding proof of concept</small></div></div>
+    <div class="status" id="status"></div>
+  </header>
+  <div class="banner">Synthetic data only. Every verbatim, code frame and golden set bundled here is fictional.</div>
+  <nav class="tabs" id="tabs">
+    <button data-tab="setup">1 · Setup</button>
+    <button data-tab="run">2 · Coding run</button>
+    <button data-tab="review">3 · Review queue</button>
+    <button data-tab="proposals">4 · Frame proposals</button>
+    <button data-tab="export">5 · Export</button>
+    <button data-tab="eval">6 · Eval</button>
+  </nav>
+  <main id="view"></main>
+  <div class="toast" id="toast" hidden></div>
+  <script type="module" src="app.js"></script>
+</body>
+</html>
